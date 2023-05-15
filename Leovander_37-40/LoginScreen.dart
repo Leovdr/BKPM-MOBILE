@@ -58,7 +58,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 fontSize: 30
               ),),),
               Padding(padding: const EdgeInsets.all(8),
-              child: Image.asset("assets/",
+              child: Image.asset("assets/L.jpeg",
               height: 100,
               width: 100,),
               ),

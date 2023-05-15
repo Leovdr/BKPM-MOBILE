@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573176024360",
+    "project_id": "auth-project-34d69",
+    "storage_bucket": "auth-project-34d69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573176024360:android:28694532081b1c7bd5d41d",
+        "android_client_info": {
+          "package_name": "com.example.tigatuju"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573176024360-a9ng6tb1cjpuaqaj58di61ohb6nkjq04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0idea4Tf1PEhfSxKv7905Pk2WYOYqJzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573176024360-a9ng6tb1cjpuaqaj58di61ohb6nkjq04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
